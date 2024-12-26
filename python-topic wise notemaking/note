@@ -1,0 +1,14 @@
+
+
+create a new environment -
+python3 -m venv topicnotemaker
+source topicnotemaker/bin/activate
+
+downloads
+download pip install PyMuPDF in terminal
+pip install nltk
+pip install transformers
+pip install torch (or) pip install tensorflow
+pip install langchain
+pip install -U langchain-community
+pip install pyspellchecker
